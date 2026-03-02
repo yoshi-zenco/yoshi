@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![Twitter](https://img.shields.io/twitter/follow/yoshi_ai?style=social)](https://x.com/yoshizenco)
+[![Twitter](https://img.shields.io/twitter/follow/yoshizenco?style=social)](https://x.com/yoshizenco)
 
 ---
 
