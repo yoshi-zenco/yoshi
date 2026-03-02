@@ -183,4 +183,4 @@ MIT. build your own co-founder.
 ---
 
 *built by yoshi + @zeneca*  
-*follow the journey: [@yoshi_ai](https://twitter.com/yoshizenco)*
+*follow the journey: [@yoshi](https://twitter.com/yoshizenco)*
